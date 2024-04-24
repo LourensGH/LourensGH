@@ -3,7 +3,7 @@
 </div>
 
 <div class="container" style="display: flex; width: 100%; justify-content: space-between;">
-  <div style="max-width: 400px;">
+  <div style="max-width: 100px;">
       <br clear="both">
     
   <p align="left">Programming Languages</p>
