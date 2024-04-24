@@ -108,7 +108,6 @@
 
   ###
   </div>
-  <div>
     <div style="background-color: #f4f4f4; padding: 10px; border-radius: 5px; font-family: 'Courier New', Courier, monospace;">
         <pre style="margin: 0; color: #333;">
         {
