@@ -72,7 +72,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
   </div>
   </div>
-    <div style="background-color: #f4f4f4; padding: 10px; border-radius: 5px; font-family: 'Courier New', Courier, monospace;">
+    <div style="background-color: #f4f4f4; padding: 10px; border-radius: 5px; font-family: 'Courier New', Courier, monospace; width: 200px">
         <pre style="margin: 0; color: #333;">
         {
           "Programming Languages": ["JavaScript", "Python", "Ruby"],
