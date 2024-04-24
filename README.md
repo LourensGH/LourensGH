@@ -1,6 +1,8 @@
-<div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWc2ZWZpdHFwNzltcmFmNzJseGJ0OGV5YmgzamhhZXg2bzM4ejJweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ah3zHH7hvsSB2/giphy.gif"  />
+<div style="position: relative; width: 100%; height: 100px; background-color: #f0f0f0; border-bottom: 1px solid #ddd;">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWc2ZWZpdHFwNzltcmFmNzJseGJ0OGV5YmgzamhhZXg2bzM4ejJweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ah3zHH7hvsSB2/giphy.gif" alt="Animated Image" style="height: 100px; position: absolute; right: 0; top: 0;">
+    <div style="padding: 20px; font-size: 24px; color: #333;">Welcome to My Life!</div>
 </div>
+
 
 ###
 
