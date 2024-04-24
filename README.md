@@ -3,7 +3,7 @@
 </div>
 
 <div class="container" style="display: flex; width: 100%; justify-content: space-between;">
-  <div style="max-width: 100px;">
+  <div style="width: 100px;">
       <br clear="both">
     
   <p align="left">Programming Languages</p>
@@ -73,7 +73,7 @@
   </div>
   </div>
     <div style="background-color: #f4f4f4; padding: 10px; border-radius: 5px; font-family: 'Courier New', Courier, monospace; width: 200px;">
-        <pre style="margin: 0; color: #333;">
+        <pre style="margin: 0; color: #333; width: 200px;">
         {
           "Programming Languages": ["JavaScript", "Python", "Ruby"],
           "Front-End Frameworks and Libraries": ["React"],
