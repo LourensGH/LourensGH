@@ -1,5 +1,5 @@
-<div style="position: relative; width: 100%; overflow: hidden; height: auto;">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWc2ZWZpdHFwNzltcmFmNzJseGJ0OGV5YmgzamhhZXg2bzM4ejJweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ah3zHH7hvsSB2/giphy.gif" alt="Animated Image" style="width: 100%; height: auto; display: block;">
+<div style="position: relative; width: 100vw; overflow: hidden; height: auto;">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWc2ZWZpdHFwNzltcmFmNzJseGJ0OGV5YmgzamhhZXg2bzM4ejJweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ah3zHH7hvsSB2/giphy.gif" alt="Animated Image" style="width: 100vw; height: auto; display: block;">
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 2vw; font-weight: bold; text-align: center; background-color: rgba(0, 0, 0, 0.5); padding: 10px 20px; border-radius: 5px;">
         Welcome to My life!
     </div>
