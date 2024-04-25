@@ -6,7 +6,7 @@
   <div style="width: 100px;">
       <br clear="both">
     
-  <p align="left">Programming Languages</p>
+  <p align="center">Programming Languages</p>
 
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -18,18 +18,18 @@
 
   <br clear="both">
 
-  <p align="left">Front-End Frameworks and Libraries</p>
+  <p align="center">Front-End Frameworks and Libraries</p>
 
 
-  <div align="left">
+  <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   </div>
 
   <br clear="both">
 
-  <p align="left">Back-End Frameworks</p>
+  <p align="center">Back-End Frameworks</p>
 
-  <div align="left">
+  <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
@@ -38,8 +38,8 @@
   </div>
   <br clear="both">
 
-  <p align="left">Databases</p>
-  <div align="left">
+  <p align="center">Databases</p>
+  <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
@@ -48,8 +48,8 @@
   </div>
   <br clear="both">
 
-  <p align="left">Web Technologies</p>
-  <div align="left">
+  <p align="center">Web Technologies</p>
+  <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -59,12 +59,12 @@
 
   <br clear="both">
 
-  <p align="left">Tools and Package Managers</p>
-  <div align="left">
+  <p align="center">Tools and Package Managers</p>
+  <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   </div>
-  <p align="left">Socials</p>
-  <div align="left">
+  <p align="center">Socials</p>
+  <div align="center">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
