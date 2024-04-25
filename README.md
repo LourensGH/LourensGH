@@ -2,7 +2,7 @@
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWc2ZWZpdHFwNzltcmFmNzJseGJ0OGV5YmgzamhhZXg2bzM4ejJweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ah3zHH7hvsSB2/giphy.gif" alt="Animated Image" style="width: 100vw; height: auto; display: block;">
 </div>
 
-< class="container" style="display: flex; width: 100%; justify-content: space-between;">
+<div class="container" style="display: flex; width: 100%; justify-content: space-between;">
   <div style="width: 100px;">
       <br clear="both">
 
@@ -72,7 +72,16 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
   </div>
   </div>
+    <div style="background-color: #f4f4f4; padding: 10px; border-radius: 5px; font-family: 'Courier New', Courier, monospace; width: 200px;">
+        <pre style="margin: 0; color: #333; width: 200px;">
+        {
+          "Programming Languages": ["JavaScript", "Python", "Ruby"],
+          "Front-End Frameworks and Libraries": ["React"],
+          "Back-End Frameworks": ["Flask", "Node.js", "Rails"],
+          "Databases": ["PostgreSQL", "SQLite", "MySQL"],
+          "Web Technologies": ["HTML5", "CSS3", "SASS"],
+          "Tools and Package Managers": ["npm"]
+        }
+        </pre>
+    </div>
 </div>
-  <img src="https://raw.githubusercontent.com/LourensGH/LourensGH/output/snake.svg" alt="Snake animation" />
-
-  ###
