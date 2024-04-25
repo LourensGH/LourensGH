@@ -72,7 +72,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
   </div>
   </div>
+</div>
   <img src="https://raw.githubusercontent.com/LourensGH/LourensGH/output/snake.svg" alt="Snake animation" />
 
   ###
-</div>
