@@ -44,6 +44,7 @@
 <div align="center" style="text-align: center; position: absolute; bottom: 10px">
 <h1></h1>
 <h1></h1>
+<h1></h1>
 <a href="mailto:lourenskok@gmail.com">
           <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="156" height="120" alt="gmail logo" />
         </a>
@@ -83,7 +84,8 @@
 <div align="center" style="text-align: center; position: absolute; bottom: 10px">
 <h1></h1>
 <h1></h1>
-<a href="https://www.linkedin.com/in/jack-spence-1567b523b/" target="_blank">
+<h1></h1>
+<a href="#" target="_blank">
            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="156" height="120" alt="linkedin logo" >
         </a>
 </div>
