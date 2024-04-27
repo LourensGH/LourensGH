@@ -83,10 +83,12 @@
 <div align="center" style="text-align: center; position: absolute; bottom: 10px">
 <h1></h1>
 <h1></h1>
-<a href="#" target="_blank">
-           <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="156" height="120" alt="linkedin logo" >
+<a href="https://www.linkedin.com/in/jack-spence-1567b523b/" target="_blank">
+           <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="156" height="40" alt="linkedin logo" >
         </a>
 </div>
+
+##
 
     </td>
 <td valign="top" width="50%">
