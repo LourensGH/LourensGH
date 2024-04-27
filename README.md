@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td valign="top" width="25%">
+    <td valign="top" width="25%" style="position: relative;">
       <h4 align="left">Programming Languages:</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo"  />
@@ -41,7 +41,7 @@
 <div align="left">
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="20" alt="postman logo"  />
 </div>
-<div align="center" style="text-align: center; padding-top: 40px;">
+<div align="center" style="text-align: center; position: absolute; bottom: 10px">
 <a href="mailto:lourenskok@gmail.com">
           <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="156" height="120" alt="gmail logo" />
         </a>
