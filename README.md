@@ -84,13 +84,11 @@
 <h1></h1>
 <h1></h1>
 <a href="https://www.linkedin.com/in/jack-spence-1567b523b/" target="_blank">
-           <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="156" height="40" alt="linkedin logo" >
+           <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="156" height="120" alt="linkedin logo" >
         </a>
 </div>
 
-##
-
-    </td>
+</td>
 <td valign="top" width="50%">
       <h1 align="left"><-- My Tech Stacks</h1>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWc2ZWZpdHFwNzltcmFmNzJseGJ0OGV5YmgzamhhZXg2bzM4ejJweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ah3zHH7hvsSB2/giphy.gif" alt="Animated Image" style="border: 1px solid black; border-radius: 10px; display: block;">
