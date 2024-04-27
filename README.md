@@ -76,8 +76,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original.svg" height="20" alt="erlang logo"  />
 </div>
     </td>
-<td valign="center" width="50%">
+<td valign="top" width="50%">
+      <h1 align="left"><-- My Tech Stacks</h1>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWc2ZWZpdHFwNzltcmFmNzJseGJ0OGV5YmgzamhhZXg2bzM4ejJweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ah3zHH7hvsSB2/giphy.gif" alt="Animated Image" style="border: 1px solid black; border-radius: 10px; display: block;">
+      <p align="left">Throughout my software development journey, I have become proficient in a diverse array of technologies. My daily commitment to rapid learning not only keeps my mind sharp but also fuels my passion for this field. </p>
+      <p></p>
+      <p align="left">My most recent additions to the list include Jupyter Notebook & Pandas in Python. Inspired by my interest in AI and machine learning, I've delved deeper into these powerful tools to enhance my ability to analyze and manipulate data effectively.</p>
+      <p></p>
+      <p align="left">Another recent interest of mine is Elixir. Although still navigating its learning curve, I am actively expanding my proficiency in the language. I was officially lured by its growing popularity as well as the exceptional flexibility which it offers. Elixir's robust features and developer experience continue to captivate my professional curiosity, promising to add great value to my development toolkit.</p>
     </td>
     </tr>
 </table>
