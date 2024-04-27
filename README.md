@@ -83,12 +83,12 @@
    <tr>
     <td colspan="3" align="center" style="padding-bottom: 10px;">
            <!-- Centered Social Icons -->
-      <div style="text-align: center; margin-top: 0px; display: flex; align-items: center;">
-        <h1>Welco
+      <div style="text-align: center; margin-top: 0px;">
+        <h1>WELCO
         <a href="mailto:lourenskok@gmail.com">
           <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
         </a>
-        e</h1>
+        E</h1>
       </div>
     </td>
   </tr>
