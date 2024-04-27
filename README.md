@@ -41,6 +41,11 @@
 <div align="left">
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="20" alt="postman logo"  />
 </div>
+<div align="center">
+<a href="mailto:lourenskok@gmail.com">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+        </a>
+</div>
     </td>
 <td valign="top" width="25%">
       <h4 align="left">Data Science & Notebooks:</h4>
@@ -72,8 +77,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="20" alt="elixir logo"  />
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" height="20" alt="phoenix logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original.svg" height="20" alt="erlang logo"  />
 </div>
     </td>
 <td valign="top" width="50%">
@@ -83,7 +86,7 @@
       <p></p>
       <p align="left">My most recent additions to the list include Jupyter Notebook & Pandas in Python. Inspired by my interest in AI and machine learning, I've delved deeper into these powerful tools to enhance my ability to analyze and manipulate data effectively.</p>
       <p></p>
-      <p align="left">Another recent interest of mine is Elixir. Although still navigating its learning curve, I am actively expanding my proficiency in the language. I was officially lured by its growing popularity as well as the exceptional flexibility which it offers. Elixir's robust features and developer experience continue to captivate my professional curiosity, promising to add great value to my development toolkit.</p>
+      <p align="left">Another recent interest of mine is Elixir. Although still navigating its learning curve, I am actively expanding my proficiency in the language. I was initially lured by its growing popularity as well as the exceptional flexibility which it offers. Elixir's robust features and developer experience continue to captivate my professional curiosity, promising to add great value to my development toolkit.</p>
     </td>
     </tr>
 </table>
