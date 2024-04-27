@@ -91,9 +91,4 @@
       </div>
     </td>
   </tr>
-  <tr>
-    <td colspan="3" align="center" style="padding-bottom: 10px;">
-      <img src="https://profile-counter.glitch.me/LourensGH/count.svg?" style="width:40%;" height="40"/>
-    </td>
-  </tr>
 </table>
