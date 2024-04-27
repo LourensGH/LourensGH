@@ -80,6 +80,14 @@
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" height="20" alt="phoenix logo"  />
 </div>
+<div align="center" style="text-align: center; position: absolute; bottom: 10px">
+<h1></h1>
+<h1></h1>
+<a href="#" target="_blank">
+           <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="156" height="120" alt="linkedin logo" >
+        </a>
+</div>
+
     </td>
 <td valign="top" width="50%">
       <h1 align="left"><-- My Tech Stacks</h1>
