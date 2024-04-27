@@ -42,12 +42,19 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="20" alt="postman logo"  />
 </div>
 <div align="center" style="text-align: center; position: absolute; bottom: 10px">
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<h1></h1>
+<h1></h1>
+<h1></h1>
+<h1></h1>
+<h1></h1>
+<h1></h1>
+<h1></h1>
+<h1></h1>
+<h1></h1>
+<h1></h1>
+<h1></h1>
+<h1></h1>
+<h1></h1>
 <a href="mailto:lourenskok@gmail.com">
           <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="156" height="120" alt="gmail logo" />
         </a>
