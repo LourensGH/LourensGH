@@ -85,7 +85,7 @@
 <h1></h1>
 <h1></h1>
 <h1></h1>
-<a href="#" target="_blank">
+<a href="https://www.linkedin.com/in/lourens-kok-1a7048308/" target="_blank">
            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="156" height="120" alt="linkedin logo" >
         </a>
 </div>
