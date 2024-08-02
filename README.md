@@ -65,7 +65,7 @@
   <img width="6" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="20" alt="git logo"  />
 </div>
-      <h4 align="left">Backend as a Service (BaaS):</h4>
+      <h4 align="left">Backend as a Service:</h4>
 <div align="left">
   <img src="https://cdn.simpleicons.org/heroku/430098" height="20" alt="heroku logo"  />
 </div>
