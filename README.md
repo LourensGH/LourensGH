@@ -81,6 +81,7 @@
 </div>
       <h4 align="left">Currently Learning:</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="6" />
 <div align="left">
 </div>
 <div align="center" style="text-align: center; position: absolute; bottom: 10px">
