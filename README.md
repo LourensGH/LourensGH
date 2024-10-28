@@ -28,6 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" alt="nodejs logo"  />
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="20" alt="npm logo"  />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="20" alt="elixir logo"  />
 </div>
       <h4 align="left">Database:</h4>
 <div align="left">
@@ -74,12 +76,12 @@
   <img src="https://cdn.simpleicons.org/vite/646CFF" height="20" alt="vite logo"  />
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="20" alt="rails logo"  />
-</div>
-      <h4 align="left">Currently Learning:</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="20" alt="elixir logo"  />
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" height="20" alt="phoenix logo"  />
+</div>
+      <h4 align="left">Currently Learning:</h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+<div align="left">
 </div>
 <div align="center" style="text-align: center; position: absolute; bottom: 10px">
 <h1></h1>
