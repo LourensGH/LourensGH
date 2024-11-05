@@ -101,7 +101,7 @@
       <p></p>
       <p align="left">My most recent additions to the list include Jupyter Notebook & Pandas in Python. Inspired by my interest in AI and machine learning, I've delved deeper into these powerful tools to enhance my ability to analyze and manipulate data effectively.</p>
       <p></p>
-      <p align="left">Another recent interest of mine is Elixir. Although still navigating its learning curve, I am actively expanding my proficiency in the language. I was initially lured by its growing popularity as well as the exceptional flexibility which it offers. Elixir's robust features and developer experience continue to captivate my professional curiosity, promising to add great value to my development toolkit.</p>
+      <p align="left">Another interest of mine is Elixir. I am actively expanding my proficiency in the language as I was initially lured by its growing popularity as well as the exceptional flexibility which it offers. Elixir's robust features and developer experience continue to captivate my professional curiosity, promising to add great value to my development toolkit.</p>
     </td>
     </tr>
 </table>
