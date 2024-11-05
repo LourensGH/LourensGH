@@ -99,7 +99,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWc2ZWZpdHFwNzltcmFmNzJseGJ0OGV5YmgzamhhZXg2bzM4ejJweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ah3zHH7hvsSB2/giphy.gif" alt="Animated Image" style="border: 1px solid black; border-radius: 10px; display: block;">
       <p align="left">Throughout my software development journey, I have become proficient in a diverse array of technologies. My daily commitment to rapid learning not only keeps my mind sharp but also fuels my passion for this field. </p>
       <p></p>
-      <p align="left">My most recent additions to the list include Jupyter Notebook & Pandas in Python. Inspired by my interest in AI and machine learning, I've delved deeper into these powerful tools to enhance my ability to analyze and manipulate data effectively.</p>
+      <p align="left">Inspired by my interest in AI and machine learning, I've delved deeper powerful tools such as Jupyter Notebook and Pytorch to enhance my ability to analyze, manipulate and train data driven AI models more effectively.</p>
       <p></p>
       <p align="left">Another interest of mine is Elixir. I am actively expanding my proficiency in the language as I was initially lured by its growing popularity as well as the exceptional flexibility which it offers. Elixir's robust features and developer experience continue to captivate my professional curiosity, promising to add great value to my development toolkit.</p>
     </td>
